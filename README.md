@@ -5,9 +5,7 @@ Object Detection model aims to localize and identify multiple objects in a singl
 
 Whereas for react basic react is used to make a place to show the process in realtime using webcam.
 
-Here is a sample image from first run:
 
-![alt text](https://github.com/gauravsangwan/Real-Time-Object-Detection/blob/master/realtimeobjec.png?raw=true)
 
 
 
